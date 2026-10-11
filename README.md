@@ -1,5 +1,9 @@
 # Exploratory Data Analysis: Online Retail Dataset
 
+### Dataset Source
+The analysis uses the **Online Retail Dataset** sourced directly from the UCI Machine Learning Repository:
+* **Dataset Link:** [UCI Online Retail Dataset](https://archive.ics.uci.edu/static/public/352/online+retail.zip)
+
 ## 1. Project Overview & Data Preprocessing
 * **Raw Dataset Scale:** 541,909 total order records with 8 primary attributes.
 * **Data Cleaning Steps:**
