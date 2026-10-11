@@ -1,4 +1,4 @@
-#Exploratory Data Analysis: Online Retail Dataset
+# Exploratory Data Analysis: Online Retail Dataset
 
 ## 1. Project Overview & Data Preprocessing
 * **Raw Dataset Scale:** 541,909 total order records with 8 primary attributes.
